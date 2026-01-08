@@ -8,6 +8,7 @@ Built using **HTML, CSS, and JavaScript**.
 ---
 ## 📸 Preview
 
+<img width="1889" height="958" alt="Screenshot 2026-01-08 141134" src="https://github.com/user-attachments/assets/f87ed65f-d72d-4bb3-81d2-a2583a1ed647" />
 
 
 ---
